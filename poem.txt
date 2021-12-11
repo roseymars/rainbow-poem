@@ -2,6 +2,7 @@ Unicorns
 Green
 Blue
 Yellow
+Violet
 Purple
 Orange
 Red
